@@ -7,7 +7,7 @@ public class CalculatorExtend extends CalculatorImp{
   }
   
   public static void main(String[] args) {
-	CalculatorImp C=new CalculatorExtend();
+	  CalculatorExtend C=new CalculatorExtend();
 	C.add(10,20);
 }
 }
